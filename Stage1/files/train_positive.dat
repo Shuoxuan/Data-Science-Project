@@ -1,0 +1,693 @@
+'Judy Schwomeyer', 2, 1, 1, 7, 1
+'James Sladky', 2, 1, 4, 7, 1
+'Judy Blumberg', 2, 1, 0, 6, 1
+'Michael Seibert', 2, 1, 3, 6, 1
+'Naomi Lang', 2, 1, 0, 6, 1
+'Peter Tchernyshev', 2, 1, 3, 6, 1
+'Tanith Belbin', 2, 1, 1, 11, 1
+'Ben Agosto', 2, 1, 4, 11, 1
+'Paul Pierce', 2, 1, 3, 15, 1
+'Kevin Garnett', 2, 1, 6, 15, 1
+'Pierce', 1, 1, 0, 4, 1
+'Garnett', 1, 1, 1, 5, 1
+'Avery Bradley', 2, 1, 2, 18, 1
+'Beth', 1, 1, 2, 13, 1
+'McGraw', 1, 1, 1, 3, 1
+'Diggins', 1, 1, 3, 9, 1
+'Kayla McBride', 2, 1, 5, 19, 1
+'Diggins', 1, 1, 0, 10, 1
+'Diggins', 1, 1, 1, 3, 1
+'Diggins', 1, 1, 1, 12, 1
+'Diggins', 1, 1, 3, 19, 1
+'Catchings', 1, 1, 0, 7, 1
+'Pardew', 1, 1, 8, 32, 1
+'Mathieu Debuchy', 2, 1, 30, 32, 1
+'Irving', 1, 1, 1, 5, 1
+'Davis', 1, 1, 1, 11, 1
+'White', 1, 1, 3, 11, 1
+'Tessa Virtue', 2, 1, 4, 14, 1
+'Scott Moir', 2, 1, 7, 14, 1
+'Virtue', 1, 1, 1, 11, 1
+'Moir', 1, 1, 3, 11, 1
+'McCoughtry', 1, 1, 0, 17, 1
+'Patrick Marleau', 2, 1, 4, 21, 1
+'Marleau', 1, 1, 0, 17, 1
+'Rory McIlroy', 2, 1, 1, 36, 1
+'Tiger Woods', 2, 1, 7, 36, 1
+'Perri Shakes-Drayton', 2, 1, 0, 10, 1
+'Eilidh Child', 2, 1, 4, 10, 1
+'Shana Cox', 2, 1, 2, 5, 1
+'Christine Ohuruogu', 2, 1, 7, 13, 1
+'Peter Eriksson', 2, 1, 6, 35, 1
+"O'Neal", 1, 1, 1, 5, 1
+'Buss', 1, 1, 4, 5, 1
+'Johnson', 1, 1, 1, 23, 1
+'Johnson', 1, 1, 9, 18, 1
+'Johnson', 1, 1, 1, 3, 1
+'Ken Rosenthal', 2, 1, 0, 10, 1
+'Shaun Marcum', 2, 1, 5, 7, 1
+'White', 1, 1, 1, 10, 1
+'Johnson', 1, 1, 1, 2, 1
+'Johnson', 1, 1, 1, 3, 1
+'Natalie Achonwa', 2, 1, 0, 16, 1
+'Jewell Loyd', 2, 1, 12, 16, 1
+'Diggins', 1, 1, 0, 12, 1
+'Diggins', 1, 1, 7, 24, 1
+'Lexi Sells', 2, 1, 9, 24, 1
+'Demetrious Johnson', 2, 1, 6, 20, 1
+'Johnson', 1, 1, 2, 3, 1
+'Johnson', 1, 1, 7, 12, 1
+'Johnson', 1, 1, 1, 4, 1
+'Johnson', 1, 1, 1, 2, 1
+'John Dodson', 2, 1, 8, 10, 1
+'Buss', 1, 1, 20, 21, 1
+'Buss', 1, 1, 25, 32, 1
+'Buss', 1, 1, 2, 11, 1
+'Johnson', 1, 1, 0, 13, 1
+'Johnson', 1, 1, 1, 3, 1
+'Marleau', 1, 1, 0, 10, 1
+'Brad Stuart', 2, 1, 2, 5, 1
+'Patty', 1, 1, 3, 19, 1
+'Marleau', 1, 1, 3, 27, 1
+"Ryan O'Byrne", 2, 1, 7, 27, 1
+'Stuart', 1, 1, 17, 27, 1
+'Gabriel Landeskog', 2, 1, 21, 27, 1
+'McGraw', 1, 1, 1, 3, 1
+'Tori', 1, 1, 0, 8, 1
+'Symone Roberts', 2, 1, 0, 2, 1
+'McGraw', 1, 1, 1, 3, 1
+'Susan Robinson Fruchti', 3, 1, 2, 17, 1
+'Erik Spoelstra', 2, 1, 1, 11, 1
+'Gregg Popovich', 2, 1, 3, 20, 1
+'Vinny Del Negro', 3, 1, 8, 20, 1
+'Scott Brooks', 2, 1, 18, 20, 1
+'Irving', 1, 1, 0, 1, 1
+'Irving', 1, 1, 0, 8, 1
+'James', 1, 1, 7, 8, 1
+'Davis', 1, 1, 1, 3, 1
+'Fabricio Coloccini', 2, 1, 2, 23, 1
+'Alan Pardew', 2, 1, 1, 16, 1
+'Coloccini', 1, 1, 5, 16, 1
+'Catchings', 1, 1, 0, 6, 1
+'Shavonte Zellous', 2, 1, 2, 9, 1
+'Emily Seebohm', 2, 1, 0, 28, 1
+'Catchings', 1, 1, 1, 17, 1
+'Catchings', 1, 1, 0, 5, 1
+'Denny Hamlin', 2, 1, 2, 14, 1
+'Stephanie Ready', 2, 1, 9, 14, 1
+'Denny Hamlin', 2, 1, 2, 31, 1
+'Andre Aldridge', 2, 1, 24, 26, 1
+'Allardyce', 1, 1, 2, 18, 1
+'Gold', 1, 1, 1, 35, 1
+'Di Canio', 2, 1, 10, 35, 1
+'Allardyce', 1, 1, 23, 35, 1
+'Madison Chock', 2, 1, 6, 12, 1
+'Evan Bates', 2, 1, 9, 12, 1
+'Maia', 1, 1, 0, 16, 1
+'Alex Shibutani', 2, 1, 2, 16, 1
+'Marissa Castelli', 2, 1, 0, 15, 1
+'Simon Shnapir', 2, 1, 3, 15, 1
+'Davis', 1, 1, 1, 3, 1
+'Marcum', 1, 1, 1, 7, 1
+'Marcum', 1, 1, 0, 1, 1
+'Johan Santana', 2, 1, 2, 14, 1
+'Jon Niese', 2, 1, 5, 14, 1
+'Dillon Gee', 2, 1, 9, 14, 1
+'Matt Harvey', 2, 1, 12, 14, 1
+'Marcum', 1, 1, 0, 9, 1
+'Jon Heyman', 2, 1, 8, 12, 1
+'Fernando Torres', 2, 1, 0, 15, 1
+'Rafa Benitez', 2, 1, 2, 12, 1
+'David Luiz', 2, 1, 14, 24, 1
+"O'Neal", 1, 1, 0, 26, 1
+'Buss', 1, 1, 2, 26, 1
+'Kobe Bryant', 2, 1, 0, 2, 1
+"O'Neal", 1, 1, 1, 5, 1
+"O'Neal", 1, 1, 0, 5, 1
+'Bryant', 1, 1, 2, 5, 1
+'Seimone Augustus', 2, 1, 0, 27, 1
+'Augustus', 1, 1, 0, 32, 1
+'Lauren Jackson', 2, 1, 3, 27, 1
+'Jackson', 1, 1, 5, 6, 1
+'Jackson', 1, 1, 0, 10, 1
+'Jackson', 1, 1, 0, 14, 1
+'Johnson', 1, 1, 6, 44, 1
+'Joseph Benavidez', 2, 1, 9, 44, 1
+'Benavidez', 1, 1, 3, 25, 1
+'Dana White', 2, 1, 2, 16, 1
+'Buss', 1, 1, 0, 2, 1
+'Johnson', 1, 1, 5, 13, 1
+'Buss', 1, 1, 4, 9, 1
+'Johnson', 1, 1, 1, 3, 1
+'Meadows', 1, 1, 2, 3, 1
+'Nigel Levine', 2, 1, 0, 13, 1
+'Mukhtar Mohammed', 2, 1, 8, 13, 1
+'Djokovic', 1, 1, 0, 26, 1
+'Novak Djokovic', 2, 1, 0, 11, 1
+'Andy Murray', 2, 1, 7, 11, 1
+'Bowers', 1, 1, 0, 18, 1
+'Bowers', 1, 1, 0, 18, 1
+'Plaxico Burress', 2, 1, 3, 21, 1
+'Cappie Pondexter', 2, 1, 0, 27, 1
+'Allan Houston', 2, 1, 8, 10, 1
+'Pondexter', 1, 1, 15, 20, 1
+'Matt Smith', 2, 1, 0, 29, 1
+'Luis Suarez', 2, 1, 8, 29, 1
+'Brad Jones', 2, 1, 16, 29, 1
+'Smith', 1, 1, 19, 29, 1
+'Reece Wabara', 2, 1, 0, 13, 1
+'Joe Allen', 2, 1, 2, 11, 1
+'Alex Marvez', 2, 1, 0, 9, 1
+'Jeff Fish', 2, 1, 2, 18, 1
+'Griner', 1, 1, 7, 19, 1
+'Griner', 1, 1, 1, 3, 1
+'Kim Mulkey', 2, 1, 1, 9, 1
+'Nadal', 1, 1, 0, 23, 1
+'Horacio Zeballos', 2, 1, 13, 15, 1
+'Wozniacki', 1, 1, 2, 27, 1
+'Lucie Safarova', 2, 1, 7, 27, 1
+'Ben Wallace', 2, 1, 0, 2, 1
+'Chauncey Billups', 2, 1, 0, 2, 1
+'Rasheed Wallace', 2, 1, 0, 16, 1
+'Rip Hamilton', 2, 1, 3, 16, 1
+'Tayshaun Prince', 2, 1, 0, 14, 1
+'Bosch', 1, 1, 0, 12, 1
+'Alex Rodriguez', 2, 1, 2, 4, 1
+'Bosch', 1, 1, 13, 19, 1
+'Rodriguez', 1, 1, 16, 19, 1
+'Isco', 1, 1, 2, 21, 1
+'Tom Ricketts', 2, 1, 2, 23, 1
+'Lance Armstrong', 2, 1, 2, 25, 1
+'Federico Macheda', 2, 1, 7, 20, 1
+'Macheda', 1, 1, 0, 20, 1
+'Felipe Lopes', 2, 1, 16, 20, 1
+'CALLUM McMANAMAN', 2, 1, 0, 24, 1
+'Roberto Martinez', 2, 1, 11, 24, 1
+'Bishop', 1, 1, 1, 3, 1
+'Rio Ferdinand', 2, 1, 1, 18, 1
+'Giggs', 1, 1, 1, 10, 1
+'Giggs', 1, 1, 0, 8, 1
+'Welshman', 1, 1, 2, 15, 1
+'Giggs', 1, 1, 2, 3, 1
+'Stephan El Shaarawy', 3, 1, 0, 26, 1
+'Mayweather', 1, 1, 0, 10, 1
+'LeRoy Butler', 2, 1, 0, 16, 1
+'Butler', 1, 1, 2, 3, 1
+'Novak Djokovic', 2, 1, 0, 5, 1
+'Djokovic', 1, 1, 0, 1, 1
+'Andy Murray', 2, 1, 2, 7, 1
+'Belgium', 1, 1, 12, 18, 1
+'Josh Hamilton', 2, 1, 4, 13, 1
+'Silly', 1, 1, 0, 4, 1
+'Andy Murray', 2, 1, 5, 30, 1
+'Novak Djokovic', 2, 1, 3, 5, 1
+'Ferguson', 1, 1, 1, 15, 1
+'Giggs', 1, 1, 5, 15, 1
+'Wayne', 1, 1, 3, 9, 1
+'Wayne', 1, 1, 4, 15, 1
+'Johnny Buss', 2, 1, 0, 2, 1
+'Buss', 1, 1, 5, 7, 1
+'Jerry', 1, 1, 15, 17, 1
+'Buss', 1, 1, 2, 10, 1
+'Johnny Buss', 2, 1, 1, 4, 1
+'Elgin Baylor', 2, 1, 3, 8, 1
+'Bill Walton', 2, 1, 6, 8, 1
+'Rudy Tomjanovich', 2, 1, 3, 5, 1
+'Byron Scott', 2, 1, 2, 4, 1
+'Cedric Ceballos', 2, 1, 2, 4, 1
+'Lisa Leslie', 2, 1, 5, 7, 1
+'Mike Garrett', 2, 1, 5, 7, 1
+'Dyan Cannon', 2, 1, 3, 5, 1
+'Bob Miller', 2, 1, 5, 10, 1
+'Jim Fox', 2, 1, 8, 10, 1
+'Randy Newman', 2, 1, 1, 3, 1
+'Davis Gaines', 2, 1, 1, 11, 1
+'Lobo-Rushin', 1, 1, 0, 11, 1
+'Cam Cameron', 2, 1, 4, 24, 1
+'Rosberg', 1, 1, 0, 1, 1
+'Miguel del Cerro', 3, 0, 0, 13, 1
+'Casillas', 1, 1, 4, 13, 1
+'Robert Pera', 2, 1, 3, 20, 1
+'Thornton', 1, 1, 1, 3, 1
+'Marleau', 1, 1, 2, 23, 1
+'Alexander Mogilny', 2, 1, 14, 23, 1
+'Scott Gomez', 2, 1, 2, 26, 1
+'James Sheppard', 2, 1, 15, 26, 1
+"O'Byrne", 1, 1, 0, 26, 1
+'Stuart', 1, 1, 10, 26, 1
+"O'Byrne", 1, 1, 20, 26, 1
+'Scott Fujita', 2, 1, 2, 14, 1
+'Barack Obama', 2, 1, 1, 11, 1
+'Obama', 1, 1, 0, 5, 1
+'Doc Rivers', 2, 1, 2, 5, 1
+'Greg Monroe', 2, 1, 0, 2, 1
+'Buster Posey', 2, 1, 12, 14, 1
+'Chelsea', 1, 1, 2, 22, 1
+'Alex Ferguson', 2, 1, 2, 10, 1
+'Didier Drogba', 2, 1, 2, 9, 1
+'Eamonn Fitzmaurice', 2, 1, 2, 22, 1
+'Cooper', 1, 1, 0, 13, 1
+'Dr Crokes', 2, 1, 8, 13, 1
+'Ballymun Kickhams', 2, 1, 5, 9, 1
+'Fitzmaurice', 1, 1, 2, 11, 1
+'Alan Pardew', 2, 1, 3, 26, 1
+'Massadio', 1, 1, 7, 26, 1
+'Garcia', 1, 1, 2, 11, 1
+'Zab Judah', 2, 1, 7, 11, 1
+'Matthysse', 1, 1, 0, 26, 1
+'Zab Judah', 2, 1, 1, 8, 1
+'Matthysse', 1, 1, 1, 3, 1
+'Bryant McKinnie', 2, 1, 6, 8, 1
+'John Harbaugh', 2, 1, 13, 16, 1
+'McKinnie', 1, 1, 0, 18, 1
+'Chandler Jones', 2, 1, 13, 17, 1
+'Vince Wilfork', 2, 1, 6, 8, 1
+'Moussa Sissoko', 2, 1, 12, 22, 1
+'Paul', 1, 1, 3, 11, 1
+'Paul', 1, 1, 4, 40, 1
+'Johnson', 1, 1, 0, 19, 1
+'Buss', 1, 1, 8, 19, 1
+'Buss', 1, 1, 1, 3, 1
+'Johnson', 1, 1, 2, 3, 1
+'Buss', 1, 1, 0, 10, 1
+'Gomez', 1, 1, 0, 1, 1
+'Mario Mandzukic', 2, 1, 11, 13, 1
+'Franck Ribery', 2, 1, 13, 36, 1
+'Bayern', 1, 1, 21, 36, 1
+'Goodell', 1, 1, 2, 11, 1
+'Fujita', 1, 1, 0, 8, 1
+'Florentino Perez', 2, 1, 21, 33, 1
+'Jose Mourinho', 2, 1, 31, 33, 1
+'West', 1, 1, 0, 6, 1
+'Buss', 1, 1, 3, 6, 1
+'Jack Kent Cooke', 3, 1, 1, 4, 1
+'Buss', 1, 1, 5, 6, 1
+'West', 1, 1, 0, 17, 1
+'Buss', 1, 1, 6, 17, 1
+'Buss', 1, 1, 6, 23, 1
+'West', 1, 1, 14, 23, 1
+'Buss', 1, 1, 6, 13, 1
+'West', 1, 1, 1, 3, 1
+'Amber Deane', 2, 1, 0, 11, 1
+'Andrea Hoover', 2, 1, 3, 11, 1
+'Dayton', 1, 1, 1, 20, 1
+'Cristian Chivu', 2, 1, 0, 25, 1
+'Meggiorini', 1, 1, 17, 25, 1
+'Esteban Cambiasso', 2, 1, 2, 14, 1
+'Djokovic', 1, 1, 0, 19, 1
+'Radek Stepanek', 2, 1, 17, 19, 1
+'Armstrong', 1, 1, 12, 18, 1
+'Oprah Winfrey', 2, 1, 3, 5, 1
+'Jon Paul Morosi', 3, 1, 0, 10, 1
+'Ray Lewis', 2, 1, 11, 44, 1
+'Billy Cundiff', 2, 1, 9, 20, 1
+'Brady', 1, 1, 0, 21, 1
+'Rob Gronkowski', 2, 1, 13, 21, 1
+'Stevan Ridley', 2, 1, 0, 9, 1
+'Shane Vereen', 2, 1, 3, 9, 1
+'Laimbeer', 1, 1, 1, 3, 1
+'Cappie Pondexter', 2, 1, 8, 13, 1
+'Plenette Pierson', 2, 1, 11, 13, 1
+'Neilson', 1, 1, 0, 8, 1
+'Carl Emberson', 2, 1, 6, 8, 1
+'Stuart Cash', 2, 1, 0, 22, 1
+'Paul', 1, 1, 12, 27, 1
+'Paul Buckle', 2, 1, 0, 3, 1
+'Papiss Cisse', 2, 1, 1, 15, 1
+'Moussa Sissoko', 2, 1, 0, 11, 1
+'Theo Walcott', 2, 1, 0, 24, 1
+'Arsene Wenger', 2, 1, 1, 23, 1
+'John Fahey', 2, 1, 13, 22, 1
+'Sepp Blatter', 2, 1, 18, 22, 1
+'Fahey', 1, 1, 0, 14, 1
+'Yoan Gouffran', 2, 1, 0, 2, 1
+'Dwain Chambers', 2, 1, 0, 21, 1
+'Kim Collins', 2, 1, 3, 18, 1
+'Mike Rodgers', 2, 1, 12, 18, 1
+'Marco Belinelli', 2, 1, 12, 20, 1
+'Joe Flacco', 2, 1, 4, 25, 1
+'Jacoby Jones', 2, 1, 8, 25, 1
+'Tom Brady', 2, 1, 5, 7, 1
+'Justin Tucker', 2, 1, 2, 19, 1
+'Torrey Smith', 2, 1, 3, 29, 1
+'Smith', 1, 1, 0, 17, 1
+'Posey', 1, 1, 6, 14, 1
+'Posey', 1, 1, 6, 17, 1
+'Marleau', 1, 1, 0, 7, 1
+'Marleau', 1, 1, 0, 17, 1
+'Semyon Varlamov', 2, 1, 9, 17, 1
+'Dan Boyle', 2, 1, 14, 20, 1
+'Thornton', 1, 1, 17, 20, 1
+'Marleau', 1, 1, 19, 20, 1
+'Novak Djokovic', 2, 1, 0, 18, 1
+'Djokovic', 1, 1, 0, 24, 1
+'Andy Murray', 2, 1, 0, 2, 1
+'Anne Donovan', 2, 1, 5, 17, 1
+'Shakes-Drayton', 1, 1, 1, 11, 1
+'Levine', 1, 1, 0, 12, 1
+'Asha Philip', 2, 1, 1, 20, 1
+'Chris Tomlinson', 2, 1, 1, 10, 1
+'Shakes-Drayton', 1, 1, 3, 4, 1
+'Magic Johnson', 2, 1, 0, 16, 1
+'Jerry Buss', 2, 1, 14, 16, 1
+"Shaquille O'Neal", 2, 1, 0, 7, 1
+'Kobe Bryant', 2, 1, 1, 13, 1
+'Buss', 1, 1, 4, 13, 1
+'Jerry West', 2, 1, 0, 11, 1
+'Buss', 1, 1, 5, 11, 1
+'Stuart Lancaster', 2, 1, 1, 21, 1
+'Laura Trott', 2, 1, 1, 7, 1
+'Max Aaron', 2, 1, 1, 10, 1
+'Jeremy Abbott', 2, 1, 11, 20, 1
+'Johnson', 1, 1, 0, 10, 1
+'Johnson', 1, 1, 1, 3, 1
+'Destiny Bartels', 2, 1, 0, 2, 1
+'Rebekkah Brunson', 2, 1, 3, 6, 1
+'Catchings', 1, 1, 1, 14, 1
+'Seimone Augustus', 2, 1, 12, 14, 1
+'Maya Moore', 2, 1, 0, 8, 1
+'Lindsay Whalen', 2, 1, 3, 8, 1
+'Lindsey Vonn', 2, 1, 4, 10, 1
+'Stuart', 1, 1, 0, 10, 1
+"O'Byrne", 1, 1, 1, 10, 1
+"O'Byrne", 1, 1, 12, 26, 1
+'Landeskog', 1, 1, 0, 11, 1
+'Kevin Durant', 2, 1, 1, 35, 1
+'Blake Griffin', 2, 1, 4, 35, 1
+'James Andrews', 2, 1, 10, 14, 1
+'Andrews', 1, 1, 3, 13, 1
+'Griffin', 1, 1, 11, 13, 1
+'Aaron Bowen', 2, 1, 0, 25, 1
+"D'Vauntes Smith-Rivera", 2, 1, 16, 25, 1
+'Markel Starks', 2, 1, 3, 5, 1
+'John Thompson III', 3, 1, 2, 15, 1
+'Meryl Davis', 2, 1, 0, 13, 1
+'Charlie White', 2, 1, 3, 13, 1
+'Davis', 1, 1, 0, 18, 1
+'White', 1, 1, 2, 18, 1
+'Davis', 1, 1, 0, 9, 1
+'White', 1, 1, 1, 3, 1
+'Rajon Rondo', 2, 1, 0, 17, 1
+'Joe Sacco', 2, 1, 3, 6, 1
+'Marleau', 1, 1, 0, 14, 1
+'Whalen', 1, 1, 0, 9, 1
+'Garnett', 1, 1, 9, 17, 1
+'LeBron James', 2, 1, 12, 17, 1
+'Dwyane Wade', 2, 1, 15, 17, 1
+'Carmelo Anthony', 2, 1, 2, 8, 1
+'Rajon Rondo', 2, 1, 6, 8, 1
+'Kobe Bryant', 2, 1, 5, 13, 1
+'Dwight Howard', 2, 1, 8, 13, 1
+'Kevin Durant', 2, 1, 2, 4, 1
+'Chris Paul', 2, 1, 3, 8, 1
+'Blake Griffin', 2, 1, 6, 8, 1
+'Ortiz', 1, 1, 0, 5, 1
+'Ortiz', 1, 1, 0, 16, 1
+'Jose', 1, 1, 5, 16, 1
+'Johnson', 1, 1, 1, 3, 1
+'Johnson', 1, 1, 1, 10, 1
+'Karen Crowe', 2, 1, 0, 2, 1
+'Johnson', 1, 1, 5, 16, 1
+'Johnson', 1, 1, 1, 3, 1
+'Johnson', 1, 1, 4, 9, 1
+'Johnson', 1, 1, 1, 3, 1
+'Alistair Overeem', 2, 1, 3, 6, 1
+'Johnson', 1, 1, 1, 12, 1
+'Johnson', 1, 1, 0, 11, 1
+'Johnson', 1, 1, 1, 3, 1
+'Michael Bingham', 2, 1, 6, 8, 1
+'Richard Buck', 2, 1, 0, 2, 1
+'Levine', 1, 1, 0, 1, 1
+'Richard Strachan', 2, 1, 1, 5, 1
+'Muhammad Ali', 2, 1, 0, 9, 1
+'George Foreman', 2, 1, 17, 21, 1
+'Florentino Perez', 2, 1, 2, 19, 1
+'Tampa Bay', 2, 1, 1, 9, 1
+'Eric Brewer', 2, 1, 7, 9, 1
+'Vincent Lecavalier', 2, 1, 0, 2, 1
+'Victor Hedman', 2, 1, 0, 5, 1
+'Steven Stamkos', 2, 1, 3, 5, 1
+'Jenny Meadows', 2, 1, 6, 8, 1
+'Nataliya Lupu', 2, 1, 17, 25, 1
+'Meadows', 1, 1, 0, 5, 1
+'Yevgeniya Zinurova', 2, 1, 13, 19, 1
+'Jamal Crawford', 2, 1, 2, 6, 1
+'David Stern', 2, 1, 1, 12, 1
+'Randolph', 1, 1, 0, 16, 1
+'Christopher Knight', 2, 1, 12, 18, 1
+'Jim Gillespie', 2, 1, 1, 11, 1
+'Joe Thornton', 2, 1, 0, 10, 1
+'Thomas Greiss', 2, 1, 0, 36, 1
+'Matt Irwin', 2, 1, 11, 36, 1
+'Landeskog', 1, 1, 6, 7, 1
+'Augustus', 1, 1, 1, 3, 1
+'Jeanette Pohlen', 2, 1, 6, 14, 1
+'Katie Douglas', 2, 1, 2, 14, 1
+'Brunson', 1, 1, 1, 3, 1
+'Rodney Stuckey', 2, 1, 1, 3, 1
+'Lawrence Frank', 2, 1, 2, 5, 1
+'Kathrin Zettel', 2, 1, 2, 6, 1
+'Frida Hansdotter', 2, 1, 2, 12, 1
+'Catchings', 1, 1, 1, 3, 1
+'Erlana Larkins', 2, 1, 2, 16, 1
+'Larkins', 1, 1, 0, 18, 1
+'Vinny Del Negro', 3, 1, 3, 20, 1
+'Del Negro', 2, 1, 12, 17, 1
+'Todd McLellan', 2, 1, 2, 5, 1
+'Stuart', 1, 1, 22, 30, 1
+'Stuart', 1, 1, 12, 31, 1
+'Landeskog', 1, 1, 16, 31, 1
+'Bryant', 1, 1, 0, 26, 1
+'McNally', 1, 1, 0, 1, 1
+'Colin Kaepernick', 2, 1, 0, 18, 1
+'Frank Gore', 2, 1, 3, 18, 1
+'Marit Bjoergen', 2, 1, 0, 29, 1
+'Nikita Kriukov', 2, 1, 7, 29, 1
+'Andretti', 1, 1, 2, 3, 1
+'Kobe Bryant', 2, 1, 0, 13, 1
+'Kobe', 1, 1, 13, 29, 1
+'Nancy Gay', 2, 1, 0, 9, 1
+'Nancy', 1, 1, 0, 8, 1
+'Colin Kaepernick', 2, 1, 0, 11, 1
+'Aaron Rodgers', 2, 1, 5, 11, 1
+'Hamilton', 1, 1, 8, 20, 1
+'Marion', 1, 1, 0, 7, 1
+'Nowitzki', 1, 1, 0, 24, 1
+'Allen Iverson', 2, 1, 6, 24, 1
+'Reshanda Gray', 2, 1, 0, 21, 1
+'Layshia Clarendon', 2, 1, 0, 11, 1
+'Gottlieb', 1, 1, 1, 3, 1
+'Slaughter', 1, 1, 0, 8, 1
+'Sara Hammond', 2, 1, 4, 13, 1
+'Hammond', 1, 1, 0, 18, 1
+'Bria Smith', 2, 1, 7, 18, 1
+'Tim Tebow', 2, 1, 0, 11, 1
+'Rex Ryan', 2, 1, 10, 18, 1
+'Jay Glazer', 2, 1, 3, 11, 1
+'Jay', 1, 1, 1, 14, 1
+'Rex Ryan', 2, 1, 1, 23, 1
+'John Idzik', 2, 1, 7, 23, 1
+'Revis', 1, 1, 12, 23, 1
+'Lawrence Frank', 2, 1, 0, 19, 1
+'Mean Joe Green', 3, 1, 15, 18, 1
+'Monte Barrett', 2, 1, 0, 2, 1
+'Shannon Briggs', 2, 1, 0, 2, 1
+'Travis Simms', 2, 1, 0, 2, 1
+'Luis Collazo', 2, 1, 0, 2, 1
+'Curtis Stevens', 2, 1, 0, 2, 1
+'Will Rosinsky', 2, 1, 0, 2, 1
+'Dimitry Salita', 2, 1, 0, 2, 1
+'Jaidon Codrington', 2, 1, 0, 9, 1
+'Jimmy O\xe2\x80\x99Pharrow', 2, 1, 6, 9, 1
+'Danny Jacobs', 2, 1, 2, 4, 1
+'Nick Hext', 2, 1, 13, 15, 1
+'David John', 2, 1, 0, 16, 1
+'Ben Coley', 2, 1, 3, 16, 1
+'Diggins', 1, 1, 0, 4, 1
+'Diggins', 1, 1, 7, 13, 1
+'McGraw', 1, 1, 1, 3, 1
+'Diggins', 1, 1, 0, 1, 1
+'Beth Morgan', 2, 1, 3, 10, 1
+'Welsh boxer Nathan', 3, 0, 0, 25, 1
+'Robin Krasniqi', 2, 1, 21, 25, 1
+'Button', 1, 1, 1, 15, 1
+'Lewis Hamilton', 2, 1, 1, 12, 1
+'Nico Rosberg', 2, 1, 9, 11, 1
+'Rosberg', 1, 1, 0, 17, 1
+'Hamilton', 1, 1, 0, 9, 1
+'Javier Hernandez', 2, 1, 0, 7, 1
+'Ryan Giggs', 2, 1, 4, 9, 1
+'Wayne Rooney', 2, 1, 7, 9, 1
+'Aaron Hughes', 2, 1, 1, 10, 1
+'Ferguson', 1, 1, 1, 8, 1
+'Fulham', 1, 1, 4, 13, 1
+'Ince', 1, 1, 0, 13, 1
+'Steve Thompson', 2, 1, 3, 19, 1
+'Thompson', 1, 1, 0, 12, 1
+'Toni Young', 2, 1, 0, 17, 1
+'Lindsey Keller', 2, 1, 9, 17, 1
+'Tiffany Bias', 2, 1, 0, 13, 1
+'Kendra Suttles', 2, 1, 3, 13, 1
+'Vernon Davis', 2, 1, 6, 8, 1
+'Kaepernick', 1, 1, 3, 12, 1
+'Alex Smith', 2, 1, 5, 12, 1
+'Davis', 1, 1, 0, 17, 1
+'Davis', 1, 1, 0, 8, 1
+'Kaepernick', 1, 1, 7, 8, 1
+'Zach Miller', 2, 1, 15, 28, 1
+'John Abraham', 2, 1, 6, 8, 1
+'Seahawks', 1, 1, 4, 17, 1
+'Russell Wilson', 2, 1, 6, 17, 1
+'Abraham', 1, 1, 0, 7, 1
+'Alejandra Rodenas', 2, 1, 1, 25, 1
+'Alberto Paloschi', 2, 1, 0, 12, 1
+'Christian Puggioni', 2, 1, 12, 26, 1
+'Matthysse', 1, 1, 1, 3, 1
+'Danny Garcia', 2, 1, 15, 21, 1
+'Marcos Maidana', 2, 1, 19, 21, 1
+'Danny Garcia', 2, 1, 2, 12, 1
+'Matthysse', 1, 1, 1, 3, 1
+'Ba', 1, 1, 0, 36, 1
+'Papiss Cisse', 2, 1, 31, 36, 1
+'Harry Redknapp', 2, 1, 4, 14, 1
+'Loic Remy', 2, 1, 12, 14, 1
+'Pardew', 1, 1, 0, 11, 1
+'Gouffran', 1, 1, 0, 3, 1
+'Chock', 1, 1, 0, 15, 1
+'Bates', 1, 1, 2, 15, 1
+'Shibutanis', 1, 1, 5, 15, 1
+'Chock', 1, 1, 0, 9, 1
+'Bates', 1, 1, 2, 9, 1
+'Kobe Bryant', 2, 1, 1, 6, 1
+'Bryant', 1, 1, 1, 8, 1
+'Bryant', 1, 1, 1, 5, 1
+'Steve Nash', 2, 1, 1, 3, 1
+'Bryant', 1, 1, 1, 5, 1
+'Jerome Valcke', 2, 1, 3, 5, 1
+'Valcke', 1, 1, 2, 3, 1
+'David Flitcroft', 2, 1, 2, 4, 1
+'Garry', 1, 1, 5, 6, 1
+'Gaz', 1, 1, 8, 12, 1
+'Greg Couch', 2, 1, 0, 22, 1
+'Eriksson', 1, 1, 13, 26, 1
+'Jenny', 1, 1, 1, 10, 1
+'Gouffran', 1, 1, 1, 24, 1
+'Pardew', 1, 1, 11, 24, 1
+'Demba Ba', 2, 1, 20, 24, 1
+'Bell', 1, 1, 0, 15, 1
+'Bell', 1, 1, 0, 13, 1
+'Bill Oram', 2, 1, 4, 21, 1
+'Travis Leslie', 2, 1, 11, 21, 1
+'Bell', 1, 1, 18, 21, 1
+'Jay Glazer', 2, 1, 3, 11, 1
+'Jay', 1, 1, 1, 14, 1
+'Scott Pioli', 2, 1, 0, 15, 1
+'Gulbis', 1, 1, 0, 1, 1
+'Frenchman Roger-Vasselin', 2, 1, 16, 18, 1
+'Roger-Vasselin', 1, 1, 0, 13, 1
+'Gulbis', 1, 1, 0, 1, 1
+'Latvian', 1, 1, 1, 14, 1
+'Gulbis', 1, 1, 3, 14, 1
+'Brendan Rodgers', 2, 1, 1, 26, 1
+'Rodgers', 1, 1, 0, 29, 1
+'Coutinho', 1, 1, 11, 29, 1
+'Coutinho', 1, 1, 0, 19, 1
+'David Stern', 2, 1, 7, 9, 1
+'Kareem Abdul-Jabbar', 2, 1, 0, 2, 1
+'Phil Jackson', 2, 1, 0, 2, 1
+'Pau Gasol', 2, 1, 0, 9, 1
+'Pat Riley', 2, 1, 7, 9, 1
+'Jackson', 1, 1, 0, 1, 1
+'Buss', 1, 1, 3, 6, 1
+'Jeanie', 1, 1, 5, 6, 1
+'Bryant', 1, 1, 8, 15, 1
+'Lee', 1, 1, 0, 12, 1
+'Latrell Sprewell', 2, 1, 8, 12, 1
+'Mark Jackson', 2, 1, 2, 10, 1
+'Stephen Curry', 2, 1, 0, 7, 1
+'Lee', 1, 1, 0, 20, 1
+'Curry', 1, 1, 6, 20, 1
+'Lee', 1, 1, 1, 3, 1
+'Steph', 1, 1, 2, 16, 1
+'Roberto Martinez', 2, 1, 2, 9, 1
+'Gouffran', 1, 1, 0, 1, 1
+'Alan Pardew', 2, 1, 2, 14, 1
+'Mathieu Debuchy', 2, 1, 9, 14, 1
+'Mapou Yanga-Mbiwa', 2, 1, 12, 14, 1
+'Peter Eriksson', 2, 1, 9, 12, 1
+'Jenny Meadows', 2, 1, 8, 10, 1
+'Meadows', 1, 1, 1, 3, 1
+'Helen Clitheroe', 2, 1, 10, 12, 1
+'Lucas Matthysse', 2, 1, 1, 7, 1
+'Matthysse', 1, 1, 7, 29, 1
+'Matthysse', 1, 1, 0, 18, 1
+'Robert Byrd', 2, 1, 8, 18, 1
+'Chock', 1, 1, 1, 3, 1
+'Shibutanis', 1, 1, 2, 11, 1
+'Ba', 1, 1, 0, 19, 1
+'Gouffran', 1, 1, 2, 23, 1
+'Cisse', 1, 1, 22, 23, 1
+'Robbie Grabarz', 2, 1, 4, 18, 1
+'Holly Bleasdale', 2, 1, 3, 10, 1
+'Yarisley Silva', 2, 1, 13, 21, 1
+'Fabiana Murer', 2, 1, 19, 21, 1
+'Christine Ohuruogu', 2, 1, 0, 12, 1
+'Perri Shakes-Drayton', 2, 1, 10, 12, 1
+'Eilidh Child', 2, 1, 0, 5, 1
+'Shana Cox', 2, 1, 3, 5, 1
+'James Dasaolu', 2, 1, 1, 3, 1
+'Harry Aikines-Aryeetey', 2, 1, 1, 8, 1
+'Alex Marvez', 2, 1, 0, 9, 1
+'Henderson', 1, 1, 0, 11, 1
+'Melendez', 1, 1, 1, 9, 1
+'Daniel Cormier', 2, 1, 11, 16, 1
+'Frank Mir', 2, 1, 14, 16, 1
+'Henderson', 1, 1, 0, 14, 1
+'Nick Diaz', 2, 1, 6, 15, 1
+'Hunter Mahan', 2, 1, 4, 44, 1
+'Mahan', 1, 1, 1, 2, 1
+'Mahan', 1, 1, 1, 18, 1
+'Rory McIlroy', 2, 1, 5, 18, 1
+'Marshawn Lynch', 2, 1, 0, 23, 1
+'Matt Bryant', 2, 1, 7, 23, 1
+'Colin Kaepernick', 2, 1, 2, 19, 1
+'Matt Ryan', 2, 1, 2, 7, 1
+'Bryant', 1, 1, 15, 22, 1
+'Ryan', 1, 1, 3, 14, 1
+'Mike Singletary', 2, 1, 0, 16, 1
+'Kaepernick', 1, 1, 8, 16, 1
+'Bryant', 1, 1, 1, 11, 1
+'Michelle Kwan', 2, 1, 14, 16, 1
+'Wagner', 1, 1, 0, 19, 1
+'Kwan', 1, 1, 6, 19, 1
+'Gracie Gold', 2, 1, 5, 12, 1
+'Michelle', 1, 1, 8, 13, 1
+'Wagner', 1, 1, 1, 3, 1
+'Neville', 1, 1, 0, 11, 1
+'There\xc2\x92s', 1, 1, 0, 16, 1
+'Ferguson', 1, 1, 0, 9, 1
+'Neville\xc2\x92s', 1, 1, 4, 6, 1
+'David de Gea', 3, 0, 10, 20, 1
+'Duncan', 1, 1, 0, 23, 1
+'Michael Jordan', 2, 1, 12, 17, 1
+'Kobe Bryant', 2, 1, 0, 5, 1
+'Kevin Garnett', 2, 1, 3, 5, 1
+"Shaquille O'Neal", 2, 1, 1, 8, 1
+'Kareem Abdul-Jabbar', 2, 1, 0, 10, 1
+'Chandler', 1, 1, 2, 5, 1
+'Noah', 1, 1, 4, 5, 1
+'Brook Lopez', 2, 1, 5, 7, 1
+'Deron Williams', 2, 1, 2, 13, 1
+'Joe Johnson', 2, 1, 5, 13, 1
+'Paul Pierce', 2, 1, 3, 5, 1
+'Jerry', 1, 1, 1, 10, 1
+'Kobe', 1, 1, 6, 10, 1
+'Jackson', 1, 1, 1, 3, 1
+'Bryant', 1, 1, 4, 9, 1
+'Buss', 1, 1, 10, 25, 1
+'Jackson', 1, 1, 16, 25, 1
+'Bryant', 1, 1, 0, 3, 1
+'Raja Bell', 2, 1, 8, 10, 1
+'Sunday', 1, 1, 2, 8, 1
+'Bell', 1, 1, 0, 9, 1
+'Tyrone Corbin', 2, 1, 7, 9, 1

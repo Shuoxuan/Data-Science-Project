@@ -71,11 +71,20 @@ def cv(clf, name, train_pos_file, train_neg_file):
         kf_x_test_positive = kf_x_test[np.where(kf_y_test == 1)[0]]
         test_predict_positive = clf.predict(kf_x_test_positive)
         nTP += test_predict_positive.sum()
-    train_precision = nTP / nP * 100.0
-    print(
-        name,
-        "Cross-Validation presison = {:0.6f} %".format(train_precision))
-    return train_precision
+        
+        train_recall, train_precision = nTP / train_n_positive * 100.0, nTP / nP * 100.0
+        
+              
+        print(
+            name,
+            "Cross-Validation presison = {:0.6f} %".format(train_recall))
+        print(
+            name,
+            "Cross-Validation presison = {:0.6f} %".format(train_precision))
+
+        print("test F1-score = {:0.6f} %".format(2 * (train_precision * train_recall) / (train_precision +
+                                                                                           train_recall)))
+        return train_precision
 
 
 def train_and_test(clf, name, train_pos_file, train_neg_file,

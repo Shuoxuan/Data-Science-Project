@@ -1,8 +1,4 @@
 #!/usr/bin/env python3
-##################################
-# University of Wisconsin-Madison
-# Author: Yaqi Zhang, Jieru Hu
-##################################
 """
 This module contains functions which train and test samples
 """

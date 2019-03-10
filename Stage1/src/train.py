@@ -72,19 +72,19 @@ def cv(clf, name, train_pos_file, train_neg_file):
         test_predict_positive = clf.predict(kf_x_test_positive)
         nTP += test_predict_positive.sum()
         
-        train_recall, train_precision = nTP / train_n_positive * 100.0, nTP / nP * 100.0
-        
+        train_recall, train_precision = (nTP * 1.0 / train_n_positive) * 100.0, nTP*1.0 / nP * 100.0
+        #print(nTP,train_n_positive,train_recall)
               
-        print(
-            name,
-            "Cross-Validation presison = {:0.6f} %".format(train_recall))
-        print(
-            name,
-            "Cross-Validation presison = {:0.6f} %".format(train_precision))
+    print(
+        name,
+        "Cross-Validation recall = {:0.6f} %".format(train_recall))
+    print(
+        name,
+        "Cross-Validation precision = {:0.6f} %".format(train_precision))
 
-        print("test F1-score = {:0.6f} %".format(2 * (train_precision * train_recall) / (train_precision +
-                                                                                           train_recall)))
-        return train_precision
+    print("test F1-score = {:0.6f} %".format(2 * (train_precision * train_recall) / (train_precision +
+                                                                                       train_recall)))
+    return train_precision
 
 
 def train_and_test(clf, name, train_pos_file, train_neg_file,
@@ -104,7 +104,7 @@ def train_and_test(clf, name, train_pos_file, train_neg_file,
     nTP = train_positive_predict.sum()  # true positive
     train_predict = clf.predict(train_x)
     nP = train_predict.sum()  # positive
-    train_recall, train_precision = nTP / train_n_positive * 100.0, nTP / nP * 100.0
+    train_recall, train_precision = nTP*1.0 / train_n_positive * 100.0, nTP*1.0 / nP * 100.0
     print(name, "train recall = {:0.6f} %".format(train_recall))
     print(name, "train presison = {:0.6f} %".format(train_precision))
     print(name, "train F1-score = {:0.6f} %".format(2 * (train_precision * train_recall) / (train_precision
@@ -118,8 +118,8 @@ def train_and_test(clf, name, train_pos_file, train_neg_file,
     test_positive_predict = clf.predict(test_x_positive)
     nP = test_predict.sum()
     nTP = test_positive_predict.sum()
-    test_recall, test_precision = nTP / \
-        test_x_positive.shape[0] * 100.0, nTP / nP * 100.0
+    test_recall, test_precision = nTP*1.0 / \
+        test_x_positive.shape[0] * 100.0, nTP*1.0 / nP * 100.0
     print()
     print("Apply the trained {} model to test set, we can get ".format(name))
     # print("=====================================================")

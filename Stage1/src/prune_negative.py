@@ -72,7 +72,7 @@ def main():
     if train:
         # pick 1500 negative samples, 660 single word, 795 double words, 45
         # triple word
-        numbers = [660, 795, 45]
+        numbers = [570, 600, 30]
         lst = [[], [], []]
         lens = set()
         for line in lines:
@@ -94,7 +94,7 @@ def main():
         picked.extend(random.sample(lst[1], numbers[1]))
         picked.extend(random.sample(lst[2], numbers[2]))
     else:
-        n_samples = 100
+        n_samples = 200
         lst = []
         lens = set()
         for line in lines:

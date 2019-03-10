@@ -90,8 +90,12 @@ def generate_samples(dir_name, is_positive, start_tag='<Name>',
                         r"{}[^<]*{}".format(start_tag, end_tag), sentence):
                     string = sentence[match.start():match.end()]
                     name = string[start_tag_len: -end_tag_len]
+                    if sentence[match.start()-4:match.start()-1] =='the':
+                        prev_word=1
+                    else:
+                        prev_word=0
                     sample = (name, _num_word(name), _is_capitalized(name),
-                              _num_word(sentence[:match.start()]), sentence_len, 1)
+                              _num_word(sentence[:match.start()]), sentence_len, prev_word, 1)
                     samples.append(sample)
         else:
             # negative samples
@@ -101,8 +105,12 @@ def generate_samples(dir_name, is_positive, start_tag='<Name>',
                     substrings = _split_sentence(sentence, word_num)
                     for index, substring in enumerate(substrings):
                         if not (start_tag in substring or end_tag in substring):
+                            if len(sentence.split())>1 and sentence.split()[index//word_num-1]=='the':
+                                prev_word=1
+                            else:
+                                prev_word=0
                             sample = (substring, _num_word(substring), _is_capitalized(substring),
-                                      index, sentence_len, 0)
+                                      index, sentence_len, prev_word, 0)
                             samples.append(sample)
     return samples
 

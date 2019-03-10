@@ -1,8 +1,4 @@
 #!/usr/bin/env python3
-##################################
-# University of Wisconsin-Madison
-# Author: Yaqi Zhang, Jieru Hu
-##################################
 """
 this module contains functions that can prune negative samples
 """

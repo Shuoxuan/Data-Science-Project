@@ -3,10 +3,7 @@
 This module contains functions which train and test samples
 """
 
-# standard library
 import sys
-
-# third party library
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn import tree

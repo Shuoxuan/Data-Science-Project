@@ -105,7 +105,7 @@ def generate_samples(dir_name, is_positive, start_tag='<Name>',
                     substrings = _split_sentence(sentence, word_num)
                     for index, substring in enumerate(substrings):
                         if not (start_tag in substring or end_tag in substring):
-                            if len(sentence.split())>1 and sentence.split()[index//word_num-1]=='the':
+                            if index>1 and sentence.split()[index//word_num-1]=='the':
                                 prev_word=1
                             else:
                                 prev_word=0

@@ -16,15 +16,6 @@ from sklearn import linear_model
 
 
 def read_file(filename):
-    """
-    read feature vector from file and assemble x and y
-
-    Args:
-        filename
-
-    Returns:
-        x, y
-    """
     with open(filename, 'r') as f:
         lines = f.readlines()
     words = []
@@ -39,9 +30,6 @@ def read_file(filename):
 
 
 def cv(clf, name, train_pos_file, train_neg_file):
-    """
-    cross-validation on the train set
-    """
     # train_x_positive, train_y_positive = read_file("train_positive.dat")
     # train_x_negative, train_y_negative = read_file("train_negative_pruned.dat")
     train_x_positive, train_y_positive = read_file(train_pos_file)
@@ -82,7 +70,6 @@ def cv(clf, name, train_pos_file, train_neg_file):
 
 def train_and_test(clf, name, train_pos_file, train_neg_file,
                    test_pos_file, test_neg_file):
-    """train and test"""
     # train_x_positive, train_y_positive = read_file("train_positive.dat")
     # train_x_negative, train_y_negative = read_file("train_negative_pruned.dat")
     train_x_positive, train_y_positive = read_file(train_pos_file)
@@ -115,16 +102,12 @@ def train_and_test(clf, name, train_pos_file, train_neg_file,
         test_x_positive.shape[0] * 100.0, nTP*1.0 / nP * 100.0
     print()
     print("Apply the trained {} model to test set, we can get ".format(name))
-    # print("=====================================================")
+    
     print("test recall = {:0.6f} %".format(test_recall))
     print("test precision = {:0.6f} %".format(test_precision))
     print("test F1-score = {:0.6f} %".format(2 * (test_precision * test_recall) / (test_precision +
                                                                                    test_recall)))
     print()
-    # predict_and_write_result(clf, test_pos_file, 'test_FN.dat')
-    # predict_and_write_result(clf, test_neg_file, 'test_FP.dat')
-    # predict_and_write_result(clf, train_pos_file, 'train_FN.dat')
-    # predict_and_write_result(clf, train_neg_file, 'train_FP.dat')
 
 def main():
     if (len(sys.argv) != 5):

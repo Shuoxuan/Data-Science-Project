@@ -7,8 +7,8 @@ python ./src/generate_sample.py ./data/test_data ./files/test_positive.dat pos
 python ./src/generate_sample.py ./data/test_data ./files/test_negative.dat neg
 
 # Prune the negative samples
-python src/refine_negative.py files/train_negative.dat ./files/train_negative_prune.dat ./src/blacklist.dat train
-python src/refine_negative.py files/test_negative.dat ./files/test_negative_prune.dat ./src/blacklist.dat test
+python src/prune_negative.py files/train_negative.dat ./files/train_negative_prune.dat ./src/blacklist.dat train
+python src/prune_negative.py files/test_negative.dat ./files/test_negative_prune.dat ./src/blacklist.dat test
 
 # train
 python src/train.py files/train_positive.dat files/train_negative_prune.dat files/test_positive.dat files/test_negative_prune.dat

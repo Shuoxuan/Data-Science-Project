@@ -47,7 +47,7 @@ def main():
     for training:
     pick samples randomly according to frequency and write them to pruned file
     for testing:
-    pick 850 negative samples
+    pick 200 negative samples
     """
     if len(sys.argv) != 5:
         print(
@@ -66,8 +66,7 @@ def main():
         lines = [line.strip() for line in f.readlines()]
     count = 0
     if train:
-        # pick 1500 negative samples, 660 single word, 795 double words, 45
-        # triple word
+        # pick 1200 negative samples(570 single words, 600 double words, 30 triple words)
         numbers = [570, 600, 30]
         lst = [[], [], []]
         lens = set()

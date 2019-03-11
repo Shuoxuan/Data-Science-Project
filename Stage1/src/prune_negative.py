@@ -3,52 +3,23 @@
 this module contains functions that can prune negative samples
 """
 
-# standard library
 import sys
 import random
-
-# third party library
 import numpy as np
 import matplotlib.pyplot as plt
 
-# set random seed for debug
 random.seed(10)
 
 
 def _has_digits(string):
-    """
-    returns if a string has digits or not
-
-    Args:
-        string
-
-    Returns:
-        True or False
-    """
     return any(char.isdigit() for char in string)
 
 
 def _has_parenthese(string):
-    """
-    returns if a string has parenthese or not
-
-    Args:
-        string
-
-    Returns:
-        True or False
-    """
     return any(char in ['(', ')'] for char in string)
 
 
 def main():
-    """
-    prune training/testing negative samples
-    for training:
-    pick samples randomly according to frequency and write them to pruned file
-    for testing:
-    pick 200 negative samples
-    """
     if len(sys.argv) != 5:
         print(
             "Usage: >> python {} <in_filename> <out_filename> <black_filename> <train or test>".format(
@@ -66,7 +37,7 @@ def main():
         lines = [line.strip() for line in f.readlines()]
     count = 0
     if train:
-        # pick 1200 negative samples(570 single words, 600 double words, 30 triple words)
+        # training: pick 1200 negative samples(570 single words, 600 double words, 30 triple words)
         numbers = [570, 600, 30]
         lst = [[], [], []]
         lens = set()
@@ -89,6 +60,7 @@ def main():
         picked.extend(random.sample(lst[1], numbers[1]))
         picked.extend(random.sample(lst[2], numbers[2]))
     else:
+        #testing: pick 200 negative samples
         n_samples = 200
         lst = []
         lens = set()

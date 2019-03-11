@@ -142,7 +142,6 @@ def main():
     print(
         best_clf_name,
         "has the best cross-validation precision equal to {:0.6f} %".format(max_precision))
-    # let's do the real train and test'
     train_and_test(
         best_clf,
         best_clf_name,

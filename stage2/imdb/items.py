@@ -18,7 +18,7 @@ class ImdbItem(Item):
 #     video_actor = Field()
 #     video_length = Field()
 #     video_language = Field()
-#     video_year = Field()
+    video_year = Field()
 #     video_type = Field()
 #     video_color = Field()
 #     video_area = Field()

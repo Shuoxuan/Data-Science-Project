@@ -13,10 +13,9 @@ class ImdbSpider(CrawlSpider):
     )
 
     def start_requests(self):
-        #for i in range(2000, 2019):
-        i = 2019
-        url = "http://www.imdb.com/search/title?year=" + str(i)
-        yield Request(url=url, callback=self.parse)
+        for i in range(1, 3051, 50):
+            url = "https://www.imdb.com/search/title?title_type=feature&release_date=2018-05-01,2019-05-01&start=" + str(i)
+            yield Request(url=url, callback=self.parse)
 
     def parse_imdb(self, response):
         item = ImdbItem()

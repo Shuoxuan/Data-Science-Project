@@ -14,9 +14,9 @@ class ImdbItem(Item):
     video_year = Field()
     video_url = Field()
     video_level = Field()
-    video_length = Field()
+    # video_length = Field()
     video_genres = Field()
-    video_releasedate = Field()
+    # video_releasedate = Field()
 
 #     video_rating = Field()
 #     video_name = Field()

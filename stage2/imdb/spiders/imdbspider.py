@@ -22,7 +22,7 @@ class ImdbSpider(CrawlSpider):
     def parse_imdb(self, response):
         item = ImdbItem()
         try:
-            item['url'] = response.url
+            item['video_url'] = response.url
             item['video_title'] = "".join(response.xpath('//*[@class="title_wrapper"]/h1/text()').extract())
             item['video_year'] = "".join(response.xpath('//*[@id="titleYear"]/a/text()').extract())
             item['video_level'] = "".join(response.xpath('//*[@class="subtext"]/a[1]/text()').extract())

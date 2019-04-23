@@ -32,20 +32,24 @@ with open('./imdb.csv') as csv_file:
         spamwriter = csv.writer(csvfile, delimiter=',')
         for row in csv_reader:
             if line_count == 0:
-                row.append("release_date")
+                row = []
+                row.append("genres")
+                row.append("level")
+                row.append("title")
+                row.append("time")
                 spamwriter.writerow(row)
                 line_count += 1
             else:
-                genres, release_date = splitGenres(row[0].strip())
-                row.append(release_date)
-                row[0] = genres
-                row[1] = splitLevel(row[1].strip()).rstrip()
-                row[2] = row[2].strip()
-                row[3] = row[3].strip()
-                row[4] = row[4].strip()
-                row[5] = row[5].strip()
-
                 if "TV" not in row[1] and "TV" not in row[0]:
+                    genres, release_date = splitGenres(row[0].strip())
+                    title = row[2]
+                    level = splitLevel(row[1].strip()).rstrip()
+                    row = []
+                    row.append(genres)
+                    row.append(level)
+                    row.append(title.strip())
+                    row.append(release_date)
+
                     spamwriter.writerow(row)
                     line_count += 1
         print(f'Processed {line_count} lines.')
